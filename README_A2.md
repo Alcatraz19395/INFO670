@@ -28,9 +28,17 @@ This React Native app allows users to create and manage a grocery shopping list.
 
 ## Screenshots
 
-- ![Home Screen](link-to-screenshot1)
-- ![Add Item Screenshot](link-to-screenshot1)
-- ![List Display Screenshot](link-to-screenshot2)
-- ![Delete Item Screenshot](link-to-screenshot3)
+- ![Home Screen]
+- <img width="324" alt="Screenshot 2025-04-12 at 4 15 01 AM" src="https://github.com/user-attachments/assets/ba9bf478-7187-49ed-a809-f2d66b87c431" />
+
+- ![Add Item Screenshot]
+- <img width="325" alt="Screenshot 2025-04-12 at 4 16 01 AM" src="https://github.com/user-attachments/assets/e545d711-dd0c-4fd1-8118-8392eb804aae" />
+
+- ![Error Display Screenshot]
+- <img width="328" alt="Screenshot 2025-04-12 at 4 16 34 AM" src="https://github.com/user-attachments/assets/11f0e397-a68f-463b-97a9-b3bb635db322" />
+
+- ![Delete Item Screenshot]
+- <img width="322" alt="Screenshot 2025-04-12 at 4 17 08 AM" src="https://github.com/user-attachments/assets/ec934aad-4108-4d69-b000-7dcf074439d5" />
+
 
 ---
