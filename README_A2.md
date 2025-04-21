@@ -2,7 +2,7 @@
 
 ## Design and Purpose
 
-In thiws assignment, React Native app allows users to create and manage a grocery shopping list. It’s designed to be simple, intuitive, and mobile-friendly — perfect for users who want to keep track of what they need to buy on the go.
+In thiws assignment, React Native app allows users to create and manage a grocery shopping list. It’s designed to be simple, intuitive, and mobile-friendly which is perfect for users who want to keep track of what they need to buy on the go.
 
 ---
 
