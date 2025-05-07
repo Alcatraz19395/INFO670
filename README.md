@@ -1,44 +1,23 @@
-# Grocery List App 
+# INFO 670 Assignment 3 - Photo Gallery App
 
 ## Design and Purpose
 
-In this assignment, React Native app allows users to create and manage a grocery shopping list. It’s designed to be simple, intuitive, and mobile-friendly which is perfect for users who want to keep track of what they need to buy on the go.
-
----
-
-## Basic Use
-
-- Enter a grocery item into the input field.
-- Tap the **"Add Item"** button to add it to your list.
-- Tap on any item in the list to delete it.
-- Adding empty items is prevented with an error message.
-
----
+This mobile app allows users to browse a gallery of images, view each in full size, and manage a personalized profile with locally stored information. It's designed to demonstrate multi-screen navigation, custom UI components, and data persistence for mobile apps.
 
 ## Features
 
-- Add grocery items to a scrollable list.
-- Delete items by tapping them.
-- Prevent adding empty items.
-- Clean layout using flexbox and styling.
-- Uses 6+ core React Native components:
-  - `View`, `Text`, `TextInput`, `Button`, `FlatList`, `TouchableOpacity`
-
----
+- **Gallery Screen**: Scroll through a list of images with thumbnails and titles.
+- **Picture Viewer**: Tap a photo to see the full version with its caption.
+- **Profile Screen**: Edit and save your user profile with custom fields and a gender selection modal.
+- **Local Storage**: Persist user data using AsyncStorage.
+- **Bottom Tab Navigation**: Easily switch between Gallery, Viewer, and Profile screens.
+- **Error Handling**: Prevents saving incomplete or invalid profile data.
 
 ## Screenshots
 
-- Home Screen:
-- <img width="324" alt="Screenshot 2025-04-12 at 4 15 01 AM" src="https://github.com/user-attachments/assets/ba9bf478-7187-49ed-a809-f2d66b87c431" />
-
-- Add Item Screenshot:
-- <img width="325" alt="Screenshot 2025-04-12 at 4 16 01 AM" src="https://github.com/user-attachments/assets/e545d711-dd0c-4fd1-8118-8392eb804aae" />
-
-- Error Display Screenshot(empty):
-- <img width="328" alt="Screenshot 2025-04-12 at 4 16 34 AM" src="https://github.com/user-attachments/assets/11f0e397-a68f-463b-97a9-b3bb635db322" />
-
-- Delete Item Screenshot(Eggs removed):
-- <img width="322" alt="Screenshot 2025-04-12 at 4 17 08 AM" src="https://github.com/user-attachments/assets/ec934aad-4108-4d69-b000-7dcf074439d5" />
+| Gallery | Picture Viewer | Profile | Gender Selection | Error Handling |
+|--------|----------------|---------|------------------|----------------|
+| ![Gallery](my-app/screenshots/gallery.PNG) | ![Viewer](my-app/screenshots/viewer.PNG) | ![Profile](my-app/screenshots/profile.PNG) | ![Gender](my-app/screenshots/gender.PNG) | ![Error Handling](my-app/screenshots/errorHandling.PNG) |
 
 
----
+
